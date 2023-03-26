@@ -6,3 +6,4 @@ A user agent is any software that retrieves and presents Web content for end use
 
 ## **Python Libraries and Concepts**
 Beautiful Soup - https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+Try Except - https://www.w3schools.com/python/python_try_except.asp
