@@ -1,3 +1,6 @@
+This project highlights the use of python for amazon website scraping 
+
+
 ## **Prerequisites**
 Install Beautify soup , requests and pandad
 
